@@ -112,7 +112,10 @@ int main()
             bool valid = 1;
             for (auto &c : tmp)
                 if (c < '0' || c > '9') valid = 0;
-            if (valid == 0) continue;
+            if (valid == 0) {
+                cout << "Invalid input. Please type again\n";
+                continue;
+            }
             ques = 0;
             for (auto &c : tmp) ques = ques * 10 + c - '0';
             if (ques < 0 || ques >= crossLen || answeredQues[ques]) {
