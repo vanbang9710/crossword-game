@@ -1,0 +1,25 @@
+8
+a
+nhagiao
+0
+Tu noi len su het long cham soc hoc sinh cua cac thay co giao
+tantam
+3
+Hoc sinh phai the hien dieu nay trong hoc tap de thay co, cha me vui long
+chamhoc
+5
+Thay co thuong lam viec nay sau khi thu bai kiem tra cua hoc sinh
+chambai
+6
+Day la mot truyen thong tot dep cua dan toc ta
+trongdao
+5
+Con so danh gia ket qua bai lam cua hoc sinh
+diem
+2
+Thay co thuong chuan bi thu nay truoc khi len lop
+giaoan
+3
+Ngay Nha giao Viet Nam, hoc sinh tang thay co ....de to long biet on cong lao day do
+hoa
+2
